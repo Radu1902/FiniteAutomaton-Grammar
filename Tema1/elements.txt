@@ -1,0 +1,54 @@
+3
+S A B 
+3
+a b c
+S
+6
+S aS
+S bS
+S cA
+A bB
+B aA
+B b
+
+
+4
+S A B C
+3
+a b c
+S
+6
+S aA
+A aA
+A aB
+B bC
+C cB
+C c
+
+
+3
+S A B
+3
+a b c
+S
+7
+S abc
+S aAbc
+Ab bA
+Ac Bbcc
+bB Bb
+aB aa
+aB aaA
+
+
+
+
+
+
+
+
+
+
+
+
+
